@@ -1,0 +1,57 @@
+epoch: 0
+total time steps: 200
+evaluation return: -1609.185669
+epoch: 1
+total time steps: 400
+evaluation return: -1212.364624
+epoch: 2
+total time steps: 600
+evaluation return: -1086.286377
+epoch: 3
+total time steps: 800
+evaluation return: -1530.044189
+epoch: 4
+total time steps: 1000
+evaluation return: -176.610352
+epoch: 5
+total time steps: 1200
+evaluation return: -155.814163
+epoch: 6
+total time steps: 1400
+evaluation return: -119.330276
+epoch: 7
+total time steps: 1600
+evaluation return: -170.811890
+epoch: 8
+total time steps: 1800
+evaluation return: -209.523682
+epoch: 9
+total time steps: 2000
+evaluation return: -119.490402
+epoch: 10
+total time steps: 2200
+evaluation return: -107.095970
+epoch: 11
+total time steps: 2400
+evaluation return: -140.748550
+epoch: 12
+total time steps: 2600
+evaluation return: -174.582733
+epoch: 13
+total time steps: 2800
+evaluation return: -168.767822
+epoch: 14
+total time steps: 3000
+evaluation return: -143.854782
+epoch: 15
+total time steps: 3200
+evaluation return: -180.254089
+epoch: 16
+total time steps: 3400
+evaluation return: -100.048241
+epoch: 17
+total time steps: 3600
+evaluation return: -125.226990
+epoch: 18
+total time steps: 3800
+evaluation return: -170.902832

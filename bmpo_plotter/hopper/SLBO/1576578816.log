@@ -1,0 +1,528 @@
+stages: 0.000000
+Real Env evaluation return: 15.728038
+Virt Env evaluation return: 996.934595
+stages: 1.000000
+Real Env evaluation return: 981.922615
+Virt Env evaluation return: 536.901901
+stages: 2.000000
+Real Env evaluation return: 123.360720
+Virt Env evaluation return: 882.278873
+stages: 3.000000
+Real Env evaluation return: 154.868492
+Virt Env evaluation return: 1028.924884
+stages: 4.000000
+Real Env evaluation return: 169.880963
+Virt Env evaluation return: 1396.776522
+stages: 5.000000
+Real Env evaluation return: 160.824357
+Virt Env evaluation return: 1282.929572
+stages: 6.000000
+Real Env evaluation return: 199.882632
+Virt Env evaluation return: 969.391671
+stages: 7.000000
+Real Env evaluation return: 121.765699
+Virt Env evaluation return: 1597.869747
+stages: 8.000000
+Real Env evaluation return: 164.555293
+Virt Env evaluation return: 1617.123601
+stages: 9.000000
+Real Env evaluation return: 217.961949
+Virt Env evaluation return: 579.568249
+stages: 10.000000
+Real Env evaluation return: 230.493390
+Virt Env evaluation return: 458.272532
+stages: 11.000000
+Real Env evaluation return: 247.010065
+Virt Env evaluation return: 400.260574
+stages: 12.000000
+Real Env evaluation return: 198.842489
+Virt Env evaluation return: 442.036309
+stages: 13.000000
+Real Env evaluation return: 280.782029
+Virt Env evaluation return: 583.028465
+stages: 14.000000
+Real Env evaluation return: 291.521715
+Virt Env evaluation return: 551.335874
+stages: 15.000000
+Real Env evaluation return: 335.799951
+Virt Env evaluation return: 546.018866
+stages: 16.000000
+Real Env evaluation return: 350.179775
+Virt Env evaluation return: 675.475063
+stages: 17.000000
+Real Env evaluation return: 399.682564
+Virt Env evaluation return: 358.282044
+stages: 18.000000
+Real Env evaluation return: 408.853860
+Virt Env evaluation return: 388.732459
+stages: 19.000000
+Real Env evaluation return: 412.744032
+Virt Env evaluation return: 349.169067
+stages: 20.000000
+Real Env evaluation return: 397.255591
+Virt Env evaluation return: 712.684855
+stages: 21.000000
+Real Env evaluation return: 389.163357
+Virt Env evaluation return: 734.824921
+stages: 22.000000
+Real Env evaluation return: 323.093770
+Virt Env evaluation return: 800.911156
+stages: 23.000000
+Real Env evaluation return: 317.674894
+Virt Env evaluation return: 1001.533303
+stages: 24.000000
+Real Env evaluation return: 441.802004
+Virt Env evaluation return: 1225.069055
+stages: 25.000000
+Real Env evaluation return: 440.036525
+Virt Env evaluation return: 1185.771939
+stages: 26.000000
+Real Env evaluation return: 445.476039
+Virt Env evaluation return: 929.888594
+stages: 27.000000
+Real Env evaluation return: 473.006367
+Virt Env evaluation return: 1132.418967
+stages: 28.000000
+Real Env evaluation return: 427.399544
+Virt Env evaluation return: 1208.611719
+stages: 29.000000
+Real Env evaluation return: 424.748252
+Virt Env evaluation return: 1437.309635
+stages: 30.000000
+Real Env evaluation return: 397.706179
+Virt Env evaluation return: 1945.889803
+stages: 31.000000
+Real Env evaluation return: 441.141976
+Virt Env evaluation return: 2057.057269
+stages: 32.000000
+Real Env evaluation return: 367.959522
+Virt Env evaluation return: 1548.604616
+stages: 33.000000
+Real Env evaluation return: 409.748981
+Virt Env evaluation return: 1464.890388
+stages: 34.000000
+Real Env evaluation return: 541.986673
+Virt Env evaluation return: 1131.007347
+stages: 35.000000
+Real Env evaluation return: 472.807594
+Virt Env evaluation return: 1286.514900
+stages: 36.000000
+Real Env evaluation return: 560.231292
+Virt Env evaluation return: 2185.363257
+stages: 37.000000
+Real Env evaluation return: 646.563641
+Virt Env evaluation return: 2152.385235
+stages: 38.000000
+Real Env evaluation return: 573.575906
+Virt Env evaluation return: 964.275935
+stages: 39.000000
+Real Env evaluation return: 504.354895
+Virt Env evaluation return: 945.711749
+stages: 40.000000
+Real Env evaluation return: 536.729814
+Virt Env evaluation return: 1258.859761
+stages: 41.000000
+Real Env evaluation return: 442.493242
+Virt Env evaluation return: 1444.729973
+stages: 42.000000
+Real Env evaluation return: 518.834937
+Virt Env evaluation return: 1167.730251
+stages: 43.000000
+Real Env evaluation return: 465.818781
+Virt Env evaluation return: 1461.284098
+stages: 44.000000
+Real Env evaluation return: 621.031199
+Virt Env evaluation return: 821.523729
+stages: 45.000000
+Real Env evaluation return: 526.950776
+Virt Env evaluation return: 1023.135858
+stages: 46.000000
+Real Env evaluation return: 421.192295
+Virt Env evaluation return: 1142.164812
+stages: 47.000000
+Real Env evaluation return: 359.083321
+Virt Env evaluation return: 1010.661655
+stages: 48.000000
+Real Env evaluation return: 362.691476
+Virt Env evaluation return: 1250.033305
+stages: 49.000000
+Real Env evaluation return: 403.237197
+Virt Env evaluation return: 1162.319427
+stages: 50.000000
+Real Env evaluation return: 410.413832
+Virt Env evaluation return: 1203.065801
+stages: 51.000000
+Real Env evaluation return: 375.005632
+Virt Env evaluation return: 987.878843
+stages: 52.000000
+Real Env evaluation return: 544.144855
+Virt Env evaluation return: 1175.148618
+stages: 53.000000
+Real Env evaluation return: 756.728204
+Virt Env evaluation return: 921.791543
+stages: 54.000000
+Real Env evaluation return: 740.104937
+Virt Env evaluation return: 1061.194275
+stages: 55.000000
+Real Env evaluation return: 654.454453
+Virt Env evaluation return: 1251.462366
+stages: 56.000000
+Real Env evaluation return: 614.732844
+Virt Env evaluation return: 1509.548935
+stages: 57.000000
+Real Env evaluation return: 496.659217
+Virt Env evaluation return: 1460.961778
+stages: 58.000000
+Real Env evaluation return: 560.936133
+Virt Env evaluation return: 1352.670538
+stages: 59.000000
+Real Env evaluation return: 730.296491
+Virt Env evaluation return: 1102.254122
+stages: 60.000000
+Real Env evaluation return: 763.961301
+Virt Env evaluation return: 1293.834413
+stages: 61.000000
+Real Env evaluation return: 610.574940
+Virt Env evaluation return: 1252.272409
+stages: 62.000000
+Real Env evaluation return: 860.055306
+Virt Env evaluation return: 1003.519847
+stages: 63.000000
+Real Env evaluation return: 845.495878
+Virt Env evaluation return: 1317.736358
+stages: 64.000000
+Real Env evaluation return: 800.432774
+Virt Env evaluation return: 1022.786593
+stages: 65.000000
+Real Env evaluation return: 687.723711
+Virt Env evaluation return: 801.339350
+stages: 66.000000
+Real Env evaluation return: 731.968522
+Virt Env evaluation return: 978.687855
+stages: 67.000000
+Real Env evaluation return: 357.669626
+Virt Env evaluation return: 892.406464
+stages: 68.000000
+Real Env evaluation return: 663.697893
+Virt Env evaluation return: 982.058033
+stages: 69.000000
+Real Env evaluation return: 643.990644
+Virt Env evaluation return: 1099.428246
+stages: 70.000000
+Real Env evaluation return: 786.852777
+Virt Env evaluation return: 1142.230582
+stages: 71.000000
+Real Env evaluation return: 651.584293
+Virt Env evaluation return: 1414.157912
+stages: 72.000000
+Real Env evaluation return: 840.929486
+Virt Env evaluation return: 1454.856787
+stages: 73.000000
+Real Env evaluation return: 850.950460
+Virt Env evaluation return: 1930.963057
+stages: 74.000000
+Real Env evaluation return: 707.062524
+Virt Env evaluation return: 1532.424655
+stages: 75.000000
+Real Env evaluation return: 810.518591
+Virt Env evaluation return: 972.957268
+stages: 76.000000
+Real Env evaluation return: 848.256352
+Virt Env evaluation return: 1267.078481
+stages: 77.000000
+Real Env evaluation return: 716.671108
+Virt Env evaluation return: 1692.269157
+stages: 78.000000
+Real Env evaluation return: 736.788346
+Virt Env evaluation return: 1244.463288
+stages: 79.000000
+Real Env evaluation return: 766.237401
+Virt Env evaluation return: 3363.593417
+stages: 80.000000
+Real Env evaluation return: 729.522188
+Virt Env evaluation return: 1183.409847
+stages: 81.000000
+Real Env evaluation return: 739.460382
+Virt Env evaluation return: 1548.395745
+stages: 82.000000
+Real Env evaluation return: 645.310851
+Virt Env evaluation return: 1241.912793
+stages: 83.000000
+Real Env evaluation return: 674.639675
+Virt Env evaluation return: 1526.091601
+stages: 84.000000
+Real Env evaluation return: 488.989795
+Virt Env evaluation return: 817.534768
+stages: 85.000000
+Real Env evaluation return: 710.904069
+Virt Env evaluation return: 1394.147043
+stages: 86.000000
+Real Env evaluation return: 799.062269
+Virt Env evaluation return: 1199.102970
+stages: 87.000000
+Real Env evaluation return: 760.082146
+Virt Env evaluation return: 861.967947
+stages: 88.000000
+Real Env evaluation return: 795.457245
+Virt Env evaluation return: 1277.500668
+stages: 89.000000
+Real Env evaluation return: 740.590650
+Virt Env evaluation return: 867.835998
+stages: 90.000000
+Real Env evaluation return: 594.449875
+Virt Env evaluation return: 1208.858576
+stages: 91.000000
+Real Env evaluation return: 800.401990
+Virt Env evaluation return: 1242.666294
+stages: 92.000000
+Real Env evaluation return: 586.738467
+Virt Env evaluation return: 1239.719386
+stages: 93.000000
+Real Env evaluation return: 779.604028
+Virt Env evaluation return: 1290.772336
+stages: 94.000000
+Real Env evaluation return: 770.250746
+Virt Env evaluation return: 1139.828291
+stages: 95.000000
+Real Env evaluation return: 568.807279
+Virt Env evaluation return: 1198.303304
+stages: 96.000000
+Real Env evaluation return: 698.655072
+Virt Env evaluation return: 853.331337
+stages: 97.000000
+Real Env evaluation return: 584.079877
+Virt Env evaluation return: 1328.920597
+stages: 98.000000
+Real Env evaluation return: 552.332084
+Virt Env evaluation return: 1124.049583
+stages: 99.000000
+Real Env evaluation return: 535.123508
+Virt Env evaluation return: 1425.767258
+stages: 100.000000
+Real Env evaluation return: 598.981379
+Virt Env evaluation return: 1287.799566
+stages: 101.000000
+Real Env evaluation return: 572.316083
+Virt Env evaluation return: 1210.473378
+stages: 102.000000
+Real Env evaluation return: 721.909158
+Virt Env evaluation return: 1254.125336
+stages: 103.000000
+Real Env evaluation return: 533.920081
+Virt Env evaluation return: 991.774774
+stages: 104.000000
+Real Env evaluation return: 641.940605
+Virt Env evaluation return: 874.968572
+stages: 105.000000
+Real Env evaluation return: 677.122850
+Virt Env evaluation return: 1157.265153
+stages: 106.000000
+Real Env evaluation return: 638.158297
+Virt Env evaluation return: 1153.439526
+stages: 107.000000
+Real Env evaluation return: 591.588097
+Virt Env evaluation return: 1215.948311
+stages: 108.000000
+Real Env evaluation return: 714.036898
+Virt Env evaluation return: 1110.624416
+stages: 109.000000
+Real Env evaluation return: 609.486913
+Virt Env evaluation return: 927.945176
+stages: 110.000000
+Real Env evaluation return: 675.745051
+Virt Env evaluation return: 1048.597928
+stages: 111.000000
+Real Env evaluation return: 732.001200
+Virt Env evaluation return: 923.749114
+stages: 112.000000
+Real Env evaluation return: 824.251975
+Virt Env evaluation return: 682.155864
+stages: 113.000000
+Real Env evaluation return: 808.486878
+Virt Env evaluation return: 975.110016
+stages: 114.000000
+Real Env evaluation return: 792.768484
+Virt Env evaluation return: 1066.566122
+stages: 115.000000
+Real Env evaluation return: 755.592939
+Virt Env evaluation return: 1238.670893
+stages: 116.000000
+Real Env evaluation return: 628.292116
+Virt Env evaluation return: 1180.214739
+stages: 117.000000
+Real Env evaluation return: 787.724152
+Virt Env evaluation return: 1049.353269
+stages: 118.000000
+Real Env evaluation return: 908.589251
+Virt Env evaluation return: 929.054394
+stages: 119.000000
+Real Env evaluation return: 771.376672
+Virt Env evaluation return: 1198.324097
+stages: 120.000000
+Real Env evaluation return: 740.673879
+Virt Env evaluation return: 1111.358719
+stages: 121.000000
+Real Env evaluation return: 826.736783
+Virt Env evaluation return: 1018.993376
+stages: 122.000000
+Real Env evaluation return: 767.377132
+Virt Env evaluation return: 1377.692586
+stages: 123.000000
+Real Env evaluation return: 632.591034
+Virt Env evaluation return: 1034.229027
+stages: 124.000000
+Real Env evaluation return: 896.492793
+Virt Env evaluation return: 1008.796831
+stages: 125.000000
+Real Env evaluation return: 721.359306
+Virt Env evaluation return: 1117.591226
+stages: 126.000000
+Real Env evaluation return: 846.628452
+Virt Env evaluation return: 1198.405376
+stages: 127.000000
+Real Env evaluation return: 838.405954
+Virt Env evaluation return: 839.713324
+stages: 128.000000
+Real Env evaluation return: 860.406637
+Virt Env evaluation return: 1159.127331
+stages: 129.000000
+Real Env evaluation return: 875.953312
+Virt Env evaluation return: 1101.404479
+stages: 130.000000
+Real Env evaluation return: 678.571541
+Virt Env evaluation return: 1320.649673
+stages: 131.000000
+Real Env evaluation return: 839.687195
+Virt Env evaluation return: 1225.166277
+stages: 132.000000
+Real Env evaluation return: 694.757833
+Virt Env evaluation return: 1120.897179
+stages: 133.000000
+Real Env evaluation return: 969.721490
+Virt Env evaluation return: 1218.514476
+stages: 134.000000
+Real Env evaluation return: 997.832026
+Virt Env evaluation return: 678.232527
+stages: 135.000000
+Real Env evaluation return: 875.890003
+Virt Env evaluation return: 1084.406927
+stages: 136.000000
+Real Env evaluation return: 844.779133
+Virt Env evaluation return: 1105.931229
+stages: 137.000000
+Real Env evaluation return: 861.805897
+Virt Env evaluation return: 1062.408235
+stages: 138.000000
+Real Env evaluation return: 922.813303
+Virt Env evaluation return: 1124.181360
+stages: 139.000000
+Real Env evaluation return: 842.770560
+Virt Env evaluation return: 1070.028274
+stages: 140.000000
+Real Env evaluation return: 851.678732
+Virt Env evaluation return: 696.484475
+stages: 141.000000
+Real Env evaluation return: 661.248574
+Virt Env evaluation return: 912.559835
+stages: 142.000000
+Real Env evaluation return: 870.378085
+Virt Env evaluation return: 947.398575
+stages: 143.000000
+Real Env evaluation return: 677.662386
+Virt Env evaluation return: 912.366755
+stages: 144.000000
+Real Env evaluation return: 962.225540
+Virt Env evaluation return: 1072.642105
+stages: 145.000000
+Real Env evaluation return: 730.324966
+Virt Env evaluation return: 859.789774
+stages: 146.000000
+Real Env evaluation return: 831.000921
+Virt Env evaluation return: 878.453495
+stages: 147.000000
+Real Env evaluation return: 1012.249491
+Virt Env evaluation return: 1133.053830
+stages: 148.000000
+Real Env evaluation return: 895.906536
+Virt Env evaluation return: 1138.934126
+stages: 149.000000
+Real Env evaluation return: 1014.508672
+Virt Env evaluation return: 1060.843556
+stages: 150.000000
+Real Env evaluation return: 949.239340
+Virt Env evaluation return: 1224.145399
+stages: 151.000000
+Real Env evaluation return: 1015.995502
+Virt Env evaluation return: 1273.191318
+stages: 152.000000
+Real Env evaluation return: 805.582762
+Virt Env evaluation return: 1467.327084
+stages: 153.000000
+Real Env evaluation return: 896.515308
+Virt Env evaluation return: 1293.163072
+stages: 154.000000
+Real Env evaluation return: 998.139241
+Virt Env evaluation return: 868.981966
+stages: 155.000000
+Real Env evaluation return: 996.629213
+Virt Env evaluation return: 1268.530795
+stages: 156.000000
+Real Env evaluation return: 1143.548005
+Virt Env evaluation return: 1243.513147
+stages: 157.000000
+Real Env evaluation return: 1075.836153
+Virt Env evaluation return: 1555.929832
+stages: 158.000000
+Real Env evaluation return: 949.972488
+Virt Env evaluation return: 1155.628773
+stages: 159.000000
+Real Env evaluation return: 761.822197
+Virt Env evaluation return: 1100.631855
+stages: 160.000000
+Real Env evaluation return: 1047.382394
+Virt Env evaluation return: 1215.092201
+stages: 161.000000
+Real Env evaluation return: 950.215745
+Virt Env evaluation return: 1129.457655
+stages: 162.000000
+Real Env evaluation return: 958.266099
+Virt Env evaluation return: 1007.336470
+stages: 163.000000
+Real Env evaluation return: 1151.625841
+Virt Env evaluation return: 1374.510306
+stages: 164.000000
+Real Env evaluation return: 1053.825964
+Virt Env evaluation return: 1481.872180
+stages: 165.000000
+Real Env evaluation return: 961.042602
+Virt Env evaluation return: 1252.389630
+stages: 166.000000
+Real Env evaluation return: 853.483993
+Virt Env evaluation return: 1069.381536
+stages: 167.000000
+Real Env evaluation return: 1135.574456
+Virt Env evaluation return: 1290.853336
+stages: 168.000000
+Real Env evaluation return: 1272.105751
+Virt Env evaluation return: 1016.159909
+stages: 169.000000
+Real Env evaluation return: 1368.878526
+Virt Env evaluation return: 1378.703023
+stages: 170.000000
+Real Env evaluation return: 1351.835835
+Virt Env evaluation return: 1502.586038
+stages: 171.000000
+Real Env evaluation return: 1037.493272
+Virt Env evaluation return: 1229.741702
+stages: 172.000000
+Real Env evaluation return: 1267.821594
+Virt Env evaluation return: 970.620096
+stages: 173.000000
+Real Env evaluation return: 1468.528282
+Virt Env evaluation return: 1780.406577
+stages: 174.000000
+Real Env evaluation return: 1267.263056
+Virt Env evaluation return: 1506.013608
+stages: 175.000000
+Real Env evaluation return: 1478.666686
+Virt Env evaluation return: 1739.309670
