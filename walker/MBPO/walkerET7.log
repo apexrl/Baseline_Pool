@@ -1,0 +1,1204 @@
+epoch: 0
+total time steps: 1000
+model validation loss: 1.458951
+evaluation return: 161.484955
+epoch: 1
+total time steps: 2000
+model validation loss: 1.385359
+evaluation return: 177.521454
+epoch: 2
+total time steps: 3000
+model validation loss: 1.498743
+evaluation return: 160.866867
+epoch: 3
+total time steps: 4000
+model validation loss: 1.322769
+evaluation return: 353.238464
+epoch: 4
+total time steps: 5000
+model validation loss: 1.356007
+evaluation return: 236.520599
+epoch: 5
+total time steps: 6000
+model validation loss: 1.378780
+evaluation return: 285.570282
+epoch: 6
+total time steps: 7000
+model validation loss: 1.186278
+evaluation return: 128.859879
+epoch: 7
+total time steps: 8000
+model validation loss: 1.129066
+evaluation return: 407.145447
+epoch: 8
+total time steps: 9000
+model validation loss: 1.094169
+evaluation return: 706.173096
+epoch: 9
+total time steps: 10000
+model validation loss: 1.019512
+evaluation return: 450.669525
+epoch: 10
+total time steps: 11000
+model validation loss: 1.038583
+evaluation return: 233.406326
+epoch: 11
+total time steps: 12000
+model validation loss: 1.043059
+evaluation return: 197.614014
+epoch: 12
+total time steps: 13000
+model validation loss: 1.044273
+evaluation return: 253.058258
+epoch: 13
+total time steps: 14000
+model validation loss: 0.985340
+evaluation return: 249.445114
+epoch: 14
+total time steps: 15000
+model validation loss: 0.968420
+evaluation return: 187.869919
+epoch: 15
+total time steps: 16000
+model validation loss: 0.957106
+evaluation return: 256.725342
+epoch: 16
+total time steps: 17000
+model validation loss: 0.957918
+evaluation return: 458.857025
+epoch: 17
+total time steps: 18000
+model validation loss: 0.939017
+evaluation return: 459.881836
+epoch: 18
+total time steps: 19000
+model validation loss: 0.889919
+evaluation return: 498.058167
+epoch: 19
+total time steps: 20000
+model validation loss: 0.891988
+evaluation return: 386.184998
+epoch: 20
+total time steps: 21000
+model validation loss: 0.860949
+evaluation return: 366.725647
+epoch: 21
+total time steps: 22000
+model validation loss: 0.846022
+evaluation return: 384.096375
+epoch: 22
+total time steps: 23000
+model validation loss: 0.827836
+evaluation return: 426.312500
+epoch: 23
+total time steps: 24000
+model validation loss: 0.822022
+evaluation return: 347.505859
+epoch: 24
+total time steps: 25000
+model validation loss: 0.793632
+evaluation return: 368.237305
+epoch: 25
+total time steps: 26000
+model validation loss: 0.794794
+evaluation return: 292.902130
+epoch: 26
+total time steps: 27000
+model validation loss: 0.790019
+evaluation return: 314.870514
+epoch: 27
+total time steps: 28000
+model validation loss: 0.772776
+evaluation return: 454.940735
+epoch: 28
+total time steps: 29000
+model validation loss: 0.780295
+evaluation return: 475.849304
+epoch: 29
+total time steps: 30000
+model validation loss: 0.763017
+evaluation return: 316.401672
+epoch: 30
+total time steps: 31000
+model validation loss: 0.757080
+evaluation return: 411.078278
+epoch: 31
+total time steps: 32000
+model validation loss: 0.741281
+evaluation return: 442.881836
+epoch: 32
+total time steps: 33000
+model validation loss: 0.757920
+evaluation return: 665.205017
+epoch: 33
+total time steps: 34000
+model validation loss: 0.752042
+evaluation return: 1373.424072
+epoch: 34
+total time steps: 35000
+model validation loss: 0.737295
+evaluation return: 1037.897827
+epoch: 35
+total time steps: 36000
+model validation loss: 0.752147
+evaluation return: 1544.524536
+epoch: 36
+total time steps: 37000
+model validation loss: 0.754424
+evaluation return: 1207.041138
+epoch: 37
+total time steps: 38000
+model validation loss: 0.736586
+evaluation return: 698.330200
+epoch: 38
+total time steps: 39000
+model validation loss: 0.752006
+evaluation return: 483.612793
+epoch: 39
+total time steps: 40000
+model validation loss: 0.729146
+evaluation return: 471.434235
+epoch: 40
+total time steps: 41000
+model validation loss: 0.735463
+evaluation return: 905.028687
+epoch: 41
+total time steps: 42000
+model validation loss: 0.720785
+evaluation return: 732.281738
+epoch: 42
+total time steps: 43000
+model validation loss: 0.716934
+evaluation return: 666.864929
+epoch: 43
+total time steps: 44000
+model validation loss: 0.713684
+evaluation return: 1179.634521
+epoch: 44
+total time steps: 45000
+model validation loss: 0.721254
+evaluation return: 757.643372
+epoch: 45
+total time steps: 46000
+model validation loss: 0.713545
+evaluation return: 667.533325
+epoch: 46
+total time steps: 47000
+model validation loss: 0.707717
+evaluation return: 573.357910
+epoch: 47
+total time steps: 48000
+model validation loss: 0.706943
+evaluation return: 419.801514
+epoch: 48
+total time steps: 49000
+model validation loss: 0.713595
+evaluation return: 909.765747
+epoch: 49
+total time steps: 50000
+model validation loss: 0.699728
+evaluation return: 1320.500366
+epoch: 50
+total time steps: 51000
+model validation loss: 0.712679
+evaluation return: 1237.044189
+epoch: 51
+total time steps: 52000
+model validation loss: 0.676580
+evaluation return: 1348.339966
+epoch: 52
+total time steps: 53000
+model validation loss: 0.678342
+evaluation return: 1745.072998
+epoch: 53
+total time steps: 54000
+model validation loss: 0.657302
+evaluation return: 1083.778076
+epoch: 54
+total time steps: 55000
+model validation loss: 0.668489
+evaluation return: 1006.612671
+epoch: 55
+total time steps: 56000
+model validation loss: 0.616620
+evaluation return: 1180.443970
+epoch: 56
+total time steps: 57000
+model validation loss: 0.647406
+evaluation return: 845.676086
+epoch: 57
+total time steps: 58000
+model validation loss: 0.630295
+evaluation return: 1197.385986
+epoch: 58
+total time steps: 59000
+model validation loss: 0.618614
+evaluation return: 1390.360352
+epoch: 59
+total time steps: 60000
+model validation loss: 0.590280
+evaluation return: 1278.547241
+epoch: 60
+total time steps: 61000
+model validation loss: 0.600026
+evaluation return: 1225.818604
+epoch: 61
+total time steps: 62000
+model validation loss: 0.595111
+evaluation return: 2311.381104
+epoch: 62
+total time steps: 63000
+model validation loss: 0.614750
+evaluation return: 1481.955811
+epoch: 63
+total time steps: 64000
+model validation loss: 0.584487
+evaluation return: 1159.063354
+epoch: 64
+total time steps: 65000
+model validation loss: 0.559938
+evaluation return: 986.077942
+epoch: 65
+total time steps: 66000
+model validation loss: 0.571008
+evaluation return: 1707.770264
+epoch: 66
+total time steps: 67000
+model validation loss: 0.572514
+evaluation return: 1558.559937
+epoch: 67
+total time steps: 68000
+model validation loss: 0.567315
+evaluation return: 1497.880981
+epoch: 68
+total time steps: 69000
+model validation loss: 0.528054
+evaluation return: 1566.398682
+epoch: 69
+total time steps: 70000
+model validation loss: 0.557409
+evaluation return: 545.943359
+epoch: 70
+total time steps: 71000
+model validation loss: 0.541954
+evaluation return: 1700.217773
+epoch: 71
+total time steps: 72000
+model validation loss: 0.543337
+evaluation return: 1940.672607
+epoch: 72
+total time steps: 73000
+model validation loss: 0.540081
+evaluation return: 649.818054
+epoch: 73
+total time steps: 74000
+model validation loss: 0.525824
+evaluation return: 1736.641357
+epoch: 74
+total time steps: 75000
+model validation loss: 0.526336
+evaluation return: 977.977539
+epoch: 75
+total time steps: 76000
+model validation loss: 0.535118
+evaluation return: 1196.125732
+epoch: 76
+total time steps: 77000
+model validation loss: 0.499971
+evaluation return: 828.379761
+epoch: 77
+total time steps: 78000
+model validation loss: 0.519762
+evaluation return: 2473.939941
+epoch: 78
+total time steps: 79000
+model validation loss: 0.516848
+evaluation return: 1060.851807
+epoch: 79
+total time steps: 80000
+model validation loss: 0.497211
+evaluation return: 746.828857
+epoch: 80
+total time steps: 81000
+model validation loss: 0.478976
+evaluation return: 1121.607788
+epoch: 81
+total time steps: 82000
+model validation loss: 0.472987
+evaluation return: 2561.419922
+epoch: 82
+total time steps: 83000
+model validation loss: 0.478029
+evaluation return: 3789.052002
+epoch: 83
+total time steps: 84000
+model validation loss: 0.499354
+evaluation return: 2669.263184
+epoch: 84
+total time steps: 85000
+model validation loss: 0.480844
+evaluation return: 2938.140137
+epoch: 85
+total time steps: 86000
+model validation loss: 0.467725
+evaluation return: 2801.391846
+epoch: 86
+total time steps: 87000
+model validation loss: 0.458238
+evaluation return: 3268.017334
+epoch: 87
+total time steps: 88000
+model validation loss: 0.455446
+evaluation return: 2007.506836
+epoch: 88
+total time steps: 89000
+model validation loss: 0.452847
+evaluation return: 980.487122
+epoch: 89
+total time steps: 90000
+model validation loss: 0.457940
+evaluation return: 1200.147461
+epoch: 90
+total time steps: 91000
+model validation loss: 0.445070
+evaluation return: 3528.994873
+epoch: 91
+total time steps: 92000
+model validation loss: 0.437888
+evaluation return: 1769.685913
+epoch: 92
+total time steps: 93000
+model validation loss: 0.437830
+evaluation return: 1766.458252
+epoch: 93
+total time steps: 94000
+model validation loss: 0.442715
+evaluation return: 4303.086914
+epoch: 94
+total time steps: 95000
+model validation loss: 0.454236
+evaluation return: 2841.833252
+epoch: 95
+total time steps: 96000
+model validation loss: 0.423016
+evaluation return: 3357.733887
+epoch: 96
+total time steps: 97000
+model validation loss: 0.412034
+evaluation return: 3006.341797
+epoch: 97
+total time steps: 98000
+model validation loss: 0.451613
+evaluation return: 296.870331
+epoch: 98
+total time steps: 99000
+model validation loss: 0.423330
+evaluation return: 3396.242920
+epoch: 99
+total time steps: 100000
+model validation loss: 0.411845
+evaluation return: 3820.916748
+epoch: 100
+total time steps: 101000
+model validation loss: 0.412373
+evaluation return: 1148.530762
+epoch: 101
+total time steps: 102000
+model validation loss: 0.409826
+evaluation return: 4370.701660
+epoch: 102
+total time steps: 103000
+model validation loss: 0.422616
+evaluation return: 3278.122314
+epoch: 103
+total time steps: 104000
+model validation loss: 0.408868
+evaluation return: 4299.475586
+epoch: 104
+total time steps: 105000
+model validation loss: 0.427795
+evaluation return: 1917.269775
+epoch: 105
+total time steps: 106000
+model validation loss: 0.399792
+evaluation return: 3287.346436
+epoch: 106
+total time steps: 107000
+model validation loss: 0.404086
+evaluation return: 3828.553223
+epoch: 107
+total time steps: 108000
+model validation loss: 0.425110
+evaluation return: 4087.690186
+epoch: 108
+total time steps: 109000
+model validation loss: 0.398355
+evaluation return: 4352.847168
+epoch: 109
+total time steps: 110000
+model validation loss: 0.410597
+evaluation return: 3686.748047
+epoch: 110
+total time steps: 111000
+model validation loss: 0.385398
+evaluation return: 2370.642822
+epoch: 111
+total time steps: 112000
+model validation loss: 0.406988
+evaluation return: 4662.869629
+epoch: 112
+total time steps: 113000
+model validation loss: 0.379983
+evaluation return: 1556.801147
+epoch: 113
+total time steps: 114000
+model validation loss: 0.392867
+evaluation return: 4511.430176
+epoch: 114
+total time steps: 115000
+model validation loss: 0.394912
+evaluation return: 4609.201660
+epoch: 115
+total time steps: 116000
+model validation loss: 0.374487
+evaluation return: 4473.376465
+epoch: 116
+total time steps: 117000
+model validation loss: 0.378998
+evaluation return: 1037.811768
+epoch: 117
+total time steps: 118000
+model validation loss: 0.404503
+evaluation return: 4275.564941
+epoch: 118
+total time steps: 119000
+model validation loss: 0.369016
+evaluation return: 2219.324707
+epoch: 119
+total time steps: 120000
+model validation loss: 0.387258
+evaluation return: 3834.465332
+epoch: 120
+total time steps: 121000
+model validation loss: 0.397307
+evaluation return: 2909.114746
+epoch: 121
+total time steps: 122000
+model validation loss: 0.366720
+evaluation return: 4520.976562
+epoch: 122
+total time steps: 123000
+model validation loss: 0.351162
+evaluation return: 4070.640137
+epoch: 123
+total time steps: 124000
+model validation loss: 0.366403
+evaluation return: 2473.354736
+epoch: 124
+total time steps: 125000
+model validation loss: 0.360156
+evaluation return: 2820.197754
+epoch: 125
+total time steps: 126000
+model validation loss: 0.379372
+evaluation return: 4640.880859
+epoch: 126
+total time steps: 127000
+model validation loss: 0.366178
+evaluation return: 2684.703857
+epoch: 127
+total time steps: 128000
+model validation loss: 0.367579
+evaluation return: 4472.035156
+epoch: 128
+total time steps: 129000
+model validation loss: 0.352136
+evaluation return: 3257.435059
+epoch: 129
+total time steps: 130000
+model validation loss: 0.353619
+evaluation return: 3707.950439
+epoch: 130
+total time steps: 131000
+model validation loss: 0.352687
+evaluation return: 2962.656738
+epoch: 131
+total time steps: 132000
+model validation loss: 0.340243
+evaluation return: 4223.274414
+epoch: 132
+total time steps: 133000
+model validation loss: 0.349804
+evaluation return: 2969.303955
+epoch: 133
+total time steps: 134000
+model validation loss: 0.354228
+evaluation return: 683.023804
+epoch: 134
+total time steps: 135000
+model validation loss: 0.359087
+evaluation return: 4465.689941
+epoch: 135
+total time steps: 136000
+model validation loss: 0.353248
+evaluation return: 4617.497070
+epoch: 136
+total time steps: 137000
+model validation loss: 0.358717
+evaluation return: 4068.252441
+epoch: 137
+total time steps: 138000
+model validation loss: 0.336288
+evaluation return: 3872.174561
+epoch: 138
+total time steps: 139000
+model validation loss: 0.335571
+evaluation return: 3520.595215
+epoch: 139
+total time steps: 140000
+model validation loss: 0.343454
+evaluation return: 475.009216
+epoch: 140
+total time steps: 141000
+model validation loss: 0.330568
+evaluation return: 3681.290527
+epoch: 141
+total time steps: 142000
+model validation loss: 0.327691
+evaluation return: 4478.222168
+epoch: 142
+total time steps: 143000
+model validation loss: 0.337302
+evaluation return: 4406.624023
+epoch: 143
+total time steps: 144000
+model validation loss: 0.343733
+evaluation return: 4152.290039
+epoch: 144
+total time steps: 145000
+model validation loss: 0.332707
+evaluation return: 4684.934570
+epoch: 145
+total time steps: 146000
+model validation loss: 0.332422
+evaluation return: 4320.458008
+epoch: 146
+total time steps: 147000
+model validation loss: 0.326749
+evaluation return: 4424.221191
+epoch: 147
+total time steps: 148000
+model validation loss: 0.325260
+evaluation return: 4417.357422
+epoch: 148
+total time steps: 149000
+model validation loss: 0.337060
+evaluation return: 2421.283447
+epoch: 149
+total time steps: 150000
+model validation loss: 0.334337
+evaluation return: 4589.587402
+epoch: 150
+total time steps: 151000
+model validation loss: 0.334046
+evaluation return: 4536.898926
+epoch: 151
+total time steps: 152000
+model validation loss: 0.327746
+evaluation return: 4179.771484
+epoch: 152
+total time steps: 153000
+model validation loss: 0.313964
+evaluation return: 4153.479492
+epoch: 153
+total time steps: 154000
+model validation loss: 0.330527
+evaluation return: 4628.138184
+epoch: 154
+total time steps: 155000
+model validation loss: 0.340072
+evaluation return: 4632.798828
+epoch: 155
+total time steps: 156000
+model validation loss: 0.310983
+evaluation return: 3672.597168
+epoch: 156
+total time steps: 157000
+model validation loss: 0.319999
+evaluation return: 3847.354980
+epoch: 157
+total time steps: 158000
+model validation loss: 0.313939
+evaluation return: 4425.784180
+epoch: 158
+total time steps: 159000
+model validation loss: 0.318071
+evaluation return: 727.914978
+epoch: 159
+total time steps: 160000
+model validation loss: 0.297647
+evaluation return: 62.438057
+epoch: 160
+total time steps: 161000
+model validation loss: 0.314714
+evaluation return: 3893.326660
+epoch: 161
+total time steps: 162000
+model validation loss: 0.320371
+evaluation return: 4109.856445
+epoch: 162
+total time steps: 163000
+model validation loss: 0.301814
+evaluation return: 4518.831055
+epoch: 163
+total time steps: 164000
+model validation loss: 0.300970
+evaluation return: 807.952026
+epoch: 164
+total time steps: 165000
+model validation loss: 0.317267
+evaluation return: 2387.647949
+epoch: 165
+total time steps: 166000
+model validation loss: 0.311606
+evaluation return: 4840.837402
+epoch: 166
+total time steps: 167000
+model validation loss: 0.302225
+evaluation return: 4511.644531
+epoch: 167
+total time steps: 168000
+model validation loss: 0.298709
+evaluation return: 2205.831543
+epoch: 168
+total time steps: 169000
+model validation loss: 0.305589
+evaluation return: 4584.212402
+epoch: 169
+total time steps: 170000
+model validation loss: 0.307467
+evaluation return: 4716.974121
+epoch: 170
+total time steps: 171000
+model validation loss: 0.295256
+evaluation return: 4875.708008
+epoch: 171
+total time steps: 172000
+model validation loss: 0.299666
+evaluation return: 5002.293457
+epoch: 172
+total time steps: 173000
+model validation loss: 0.286702
+evaluation return: 4949.000977
+epoch: 173
+total time steps: 174000
+model validation loss: 0.287617
+evaluation return: 4795.423828
+epoch: 174
+total time steps: 175000
+model validation loss: 0.286945
+evaluation return: 4159.617188
+epoch: 175
+total time steps: 176000
+model validation loss: 0.284375
+evaluation return: 4663.905273
+epoch: 176
+total time steps: 177000
+model validation loss: 0.288550
+evaluation return: 4194.357910
+epoch: 177
+total time steps: 178000
+model validation loss: 0.301285
+evaluation return: 4539.052246
+epoch: 178
+total time steps: 179000
+model validation loss: 0.301245
+evaluation return: 4599.208496
+epoch: 179
+total time steps: 180000
+model validation loss: 0.297234
+evaluation return: 4106.172852
+epoch: 180
+total time steps: 181000
+model validation loss: 0.279066
+evaluation return: 4457.453125
+epoch: 181
+total time steps: 182000
+model validation loss: 0.289282
+evaluation return: 193.953995
+epoch: 182
+total time steps: 183000
+model validation loss: 0.285713
+evaluation return: 4373.583984
+epoch: 183
+total time steps: 184000
+model validation loss: 0.270992
+evaluation return: 4358.692383
+epoch: 184
+total time steps: 185000
+model validation loss: 0.291324
+evaluation return: 4697.211914
+epoch: 185
+total time steps: 186000
+model validation loss: 0.279006
+evaluation return: 4628.132324
+epoch: 186
+total time steps: 187000
+model validation loss: 0.281922
+evaluation return: 4821.105469
+epoch: 187
+total time steps: 188000
+model validation loss: 0.282105
+evaluation return: 4571.122559
+epoch: 188
+total time steps: 189000
+model validation loss: 0.298239
+evaluation return: 4818.626953
+epoch: 189
+total time steps: 190000
+model validation loss: 0.267358
+evaluation return: 3946.004639
+epoch: 190
+total time steps: 191000
+model validation loss: 0.273197
+evaluation return: 4431.928711
+epoch: 191
+total time steps: 192000
+model validation loss: 0.280830
+evaluation return: 1138.094727
+epoch: 192
+total time steps: 193000
+model validation loss: 0.287040
+evaluation return: 2878.876953
+epoch: 193
+total time steps: 194000
+model validation loss: 0.280388
+evaluation return: 2639.789551
+epoch: 194
+total time steps: 195000
+model validation loss: 0.263113
+evaluation return: 3907.825439
+epoch: 195
+total time steps: 196000
+model validation loss: 0.261497
+evaluation return: 3486.925293
+epoch: 196
+total time steps: 197000
+model validation loss: 0.284306
+evaluation return: 4512.789062
+epoch: 197
+total time steps: 198000
+model validation loss: 0.252889
+evaluation return: 4949.021973
+epoch: 198
+total time steps: 199000
+model validation loss: 0.266023
+evaluation return: 4891.262207
+epoch: 199
+total time steps: 200000
+model validation loss: 0.277690
+evaluation return: 2587.933838
+epoch: 200
+total time steps: 201000
+model validation loss: 0.278256
+evaluation return: 4578.164551
+epoch: 201
+total time steps: 202000
+model validation loss: 0.268570
+evaluation return: 4553.323730
+epoch: 202
+total time steps: 203000
+model validation loss: 0.264006
+evaluation return: 4285.086426
+epoch: 203
+total time steps: 204000
+model validation loss: 0.276266
+evaluation return: 3006.156738
+epoch: 204
+total time steps: 205000
+model validation loss: 0.255890
+evaluation return: 3934.041016
+epoch: 205
+total time steps: 206000
+model validation loss: 0.260279
+evaluation return: 4746.492188
+epoch: 206
+total time steps: 207000
+model validation loss: 0.269973
+evaluation return: 201.198318
+epoch: 207
+total time steps: 208000
+model validation loss: 0.240425
+evaluation return: -4.232595
+epoch: 208
+total time steps: 209000
+model validation loss: 0.251657
+evaluation return: 2942.733398
+epoch: 209
+total time steps: 210000
+model validation loss: 0.265588
+evaluation return: 2873.195801
+epoch: 210
+total time steps: 211000
+model validation loss: 0.262323
+evaluation return: 1032.456421
+epoch: 211
+total time steps: 212000
+model validation loss: 0.267021
+evaluation return: 200.491745
+epoch: 212
+total time steps: 213000
+model validation loss: 0.249652
+evaluation return: 2865.570557
+epoch: 213
+total time steps: 214000
+model validation loss: 0.251070
+evaluation return: 226.535126
+epoch: 214
+total time steps: 215000
+model validation loss: 0.269439
+evaluation return: 3169.459473
+epoch: 215
+total time steps: 216000
+model validation loss: 0.273321
+evaluation return: 3784.676270
+epoch: 216
+total time steps: 217000
+model validation loss: 0.250845
+evaluation return: 7.460411
+epoch: 217
+total time steps: 218000
+model validation loss: 0.266035
+evaluation return: 1056.804199
+epoch: 218
+total time steps: 219000
+model validation loss: 0.244152
+evaluation return: 1583.045166
+epoch: 219
+total time steps: 220000
+model validation loss: 0.255684
+evaluation return: 3536.133545
+epoch: 220
+total time steps: 221000
+model validation loss: 0.248199
+evaluation return: 4169.708984
+epoch: 221
+total time steps: 222000
+model validation loss: 0.254869
+evaluation return: 601.152222
+epoch: 222
+total time steps: 223000
+model validation loss: 0.255873
+evaluation return: 4559.293945
+epoch: 223
+total time steps: 224000
+model validation loss: 0.261922
+evaluation return: 4470.388672
+epoch: 224
+total time steps: 225000
+model validation loss: 0.245868
+evaluation return: 4101.157227
+epoch: 225
+total time steps: 226000
+model validation loss: 0.257796
+evaluation return: 4340.397949
+epoch: 226
+total time steps: 227000
+model validation loss: 0.257388
+evaluation return: 4338.637695
+epoch: 227
+total time steps: 228000
+model validation loss: 0.246294
+evaluation return: 4106.727539
+epoch: 228
+total time steps: 229000
+model validation loss: 0.248683
+evaluation return: 223.515457
+epoch: 229
+total time steps: 230000
+model validation loss: 0.254251
+evaluation return: 1176.330444
+epoch: 230
+total time steps: 231000
+model validation loss: 0.262863
+evaluation return: 225.025192
+epoch: 231
+total time steps: 232000
+model validation loss: 0.254888
+evaluation return: 4749.887695
+epoch: 232
+total time steps: 233000
+model validation loss: 0.237909
+evaluation return: 4382.566406
+epoch: 233
+total time steps: 234000
+model validation loss: 0.253270
+evaluation return: 3442.230957
+epoch: 234
+total time steps: 235000
+model validation loss: 0.245825
+evaluation return: 748.397827
+epoch: 235
+total time steps: 236000
+model validation loss: 0.254985
+evaluation return: 209.731003
+epoch: 236
+total time steps: 237000
+model validation loss: 0.253764
+evaluation return: 2057.180420
+epoch: 237
+total time steps: 238000
+model validation loss: 0.257844
+evaluation return: 264.241394
+epoch: 238
+total time steps: 239000
+model validation loss: 0.240076
+evaluation return: 229.865845
+epoch: 239
+total time steps: 240000
+model validation loss: 0.243465
+evaluation return: 3518.946533
+epoch: 240
+total time steps: 241000
+model validation loss: 0.241495
+evaluation return: 2521.670166
+epoch: 241
+total time steps: 242000
+model validation loss: 0.247826
+evaluation return: 1150.232178
+epoch: 242
+total time steps: 243000
+model validation loss: 0.245262
+evaluation return: 2053.470703
+epoch: 243
+total time steps: 244000
+model validation loss: 0.252442
+evaluation return: 273.490540
+epoch: 244
+total time steps: 245000
+model validation loss: 0.229369
+evaluation return: 3381.669434
+epoch: 245
+total time steps: 246000
+model validation loss: 0.242954
+evaluation return: 4763.549805
+epoch: 246
+total time steps: 247000
+model validation loss: 0.223838
+evaluation return: 697.967651
+epoch: 247
+total time steps: 248000
+model validation loss: 0.234153
+evaluation return: 4820.553711
+epoch: 248
+total time steps: 249000
+model validation loss: 0.265651
+evaluation return: 2542.471924
+epoch: 249
+total time steps: 250000
+model validation loss: 0.245497
+evaluation return: 3359.018066
+epoch: 250
+total time steps: 251000
+model validation loss: 0.228022
+evaluation return: 4867.918945
+epoch: 251
+total time steps: 252000
+model validation loss: 0.223007
+evaluation return: 4571.228516
+epoch: 252
+total time steps: 253000
+model validation loss: 0.253379
+evaluation return: 707.898560
+epoch: 253
+total time steps: 254000
+model validation loss: 0.245654
+evaluation return: 4533.986328
+epoch: 254
+total time steps: 255000
+model validation loss: 0.242833
+evaluation return: 4354.790527
+epoch: 255
+total time steps: 256000
+model validation loss: 0.238648
+evaluation return: 1638.834961
+epoch: 256
+total time steps: 257000
+model validation loss: 0.237721
+evaluation return: 4926.777344
+epoch: 257
+total time steps: 258000
+model validation loss: 0.246258
+evaluation return: 2070.847900
+epoch: 258
+total time steps: 259000
+model validation loss: 0.237943
+evaluation return: 696.630554
+epoch: 259
+total time steps: 260000
+model validation loss: 0.237741
+evaluation return: 265.561096
+epoch: 260
+total time steps: 261000
+model validation loss: 0.242048
+evaluation return: 5114.807617
+epoch: 261
+total time steps: 262000
+model validation loss: 0.225448
+evaluation return: 4810.292480
+epoch: 262
+total time steps: 263000
+model validation loss: 0.234323
+evaluation return: 1619.833374
+epoch: 263
+total time steps: 264000
+model validation loss: 0.234019
+evaluation return: 4846.064453
+epoch: 264
+total time steps: 265000
+model validation loss: 0.232834
+evaluation return: 4877.641602
+epoch: 265
+total time steps: 266000
+model validation loss: 0.235695
+evaluation return: 5058.725586
+epoch: 266
+total time steps: 267000
+model validation loss: 0.238289
+evaluation return: 4976.096191
+epoch: 267
+total time steps: 268000
+model validation loss: 0.238344
+evaluation return: 3409.015137
+epoch: 268
+total time steps: 269000
+model validation loss: 0.225786
+evaluation return: 4387.987793
+epoch: 269
+total time steps: 270000
+model validation loss: 0.231639
+evaluation return: 240.046707
+epoch: 270
+total time steps: 271000
+model validation loss: 0.231258
+evaluation return: 5071.678711
+epoch: 271
+total time steps: 272000
+model validation loss: 0.234822
+evaluation return: 747.389343
+epoch: 272
+total time steps: 273000
+model validation loss: 0.233660
+evaluation return: 4608.554199
+epoch: 273
+total time steps: 274000
+model validation loss: 0.218386
+evaluation return: 3438.526123
+epoch: 274
+total time steps: 275000
+model validation loss: 0.229810
+evaluation return: 4899.817383
+epoch: 275
+total time steps: 276000
+model validation loss: 0.226705
+evaluation return: 2486.539551
+epoch: 276
+total time steps: 277000
+model validation loss: 0.219527
+evaluation return: 3646.335938
+epoch: 277
+total time steps: 278000
+model validation loss: 0.232427
+evaluation return: 4955.062500
+epoch: 278
+total time steps: 279000
+model validation loss: 0.228914
+evaluation return: 4857.259277
+epoch: 279
+total time steps: 280000
+model validation loss: 0.223040
+evaluation return: 4697.972168
+epoch: 280
+total time steps: 281000
+model validation loss: 0.218862
+evaluation return: 4848.020508
+epoch: 281
+total time steps: 282000
+model validation loss: 0.234770
+evaluation return: 4045.787842
+epoch: 282
+total time steps: 283000
+model validation loss: 0.228937
+evaluation return: 4920.262695
+epoch: 283
+total time steps: 284000
+model validation loss: 0.224213
+evaluation return: 1701.294312
+epoch: 284
+total time steps: 285000
+model validation loss: 0.222366
+evaluation return: 3548.030518
+epoch: 285
+total time steps: 286000
+model validation loss: 0.214051
+evaluation return: 4820.920898
+epoch: 286
+total time steps: 287000
+model validation loss: 0.226559
+evaluation return: 3947.504395
+epoch: 287
+total time steps: 288000
+model validation loss: 0.216758
+evaluation return: 4966.270020
+epoch: 288
+total time steps: 289000
+model validation loss: 0.216715
+evaluation return: 4833.331543
+epoch: 289
+total time steps: 290000
+model validation loss: 0.235352
+evaluation return: 259.852844
+epoch: 290
+total time steps: 291000
+model validation loss: 0.214124
+evaluation return: 4978.097656
+epoch: 291
+total time steps: 292000
+model validation loss: 0.214030
+evaluation return: 5093.712402
+epoch: 292
+total time steps: 293000
+model validation loss: 0.230457
+evaluation return: 4578.861328
+epoch: 293
+total time steps: 294000
+model validation loss: 0.229855
+evaluation return: 4145.864258
+epoch: 294
+total time steps: 295000
+model validation loss: 0.234501
+evaluation return: 3940.091797
+epoch: 295
+total time steps: 296000
+model validation loss: 0.239285
+evaluation return: 2894.997559
+epoch: 296
+total time steps: 297000
+model validation loss: 0.218108
+evaluation return: 2285.973877
+epoch: 297
+total time steps: 298000
+model validation loss: 0.216204
+evaluation return: 1755.632080
+epoch: 298
+total time steps: 299000
+model validation loss: 0.218296
+evaluation return: 3946.061768
+epoch: 299
+total time steps: 300000
+model validation loss: 0.226020
+evaluation return: 4154.689453
+epoch: 300
+total time steps: 301000
+model validation loss: 0.215290
+evaluation return: 3570.826660
