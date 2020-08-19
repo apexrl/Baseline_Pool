@@ -24,3 +24,5 @@ Contains imitation learning baseline expert trajs, results on mujoco.
 |  Algs   | Envs  | Curve Data | Sampled Trajs | Plot Scripts |
 |  ----  | ----  | ----  | ----  | ----  |
 | SAC  | Ant, Hopper, Humanoid, HalfCheetah, Walker2d, Swimmer | N | Y | N
+
+Contributed by Minghuan Liu.
