@@ -1,0 +1,300 @@
+epoch: 0
+total time steps: 1000
+evaluation return: -1929.825439
+epoch: 1
+total time steps: 2000
+evaluation return: 778.895813
+epoch: 2
+total time steps: 3000
+evaluation return: 781.331726
+epoch: 3
+total time steps: 4000
+evaluation return: -2334.512451
+epoch: 4
+total time steps: 5000
+evaluation return: 33.145142
+epoch: 5
+total time steps: 6000
+evaluation return: 825.325500
+epoch: 6
+total time steps: 7000
+evaluation return: -494.191101
+epoch: 7
+total time steps: 8000
+evaluation return: -1513.809814
+epoch: 8
+total time steps: 9000
+evaluation return: -866.508423
+epoch: 9
+total time steps: 10000
+evaluation return: -863.222290
+epoch: 10
+total time steps: 11000
+evaluation return: -311.228607
+epoch: 11
+total time steps: 12000
+evaluation return: -1414.637451
+epoch: 12
+total time steps: 13000
+evaluation return: 317.657288
+epoch: 13
+total time steps: 14000
+evaluation return: -438.258118
+epoch: 14
+total time steps: 15000
+evaluation return: -170.305634
+epoch: 15
+total time steps: 16000
+evaluation return: 1355.144287
+epoch: 16
+total time steps: 17000
+evaluation return: 1641.749268
+epoch: 17
+total time steps: 18000
+evaluation return: 2352.205566
+epoch: 18
+total time steps: 19000
+evaluation return: 1640.254517
+epoch: 19
+total time steps: 20000
+evaluation return: 1956.500610
+epoch: 20
+total time steps: 21000
+evaluation return: 324.094940
+epoch: 21
+total time steps: 22000
+evaluation return: 562.669373
+epoch: 22
+total time steps: 23000
+evaluation return: -1150.646851
+epoch: 23
+total time steps: 24000
+evaluation return: 558.933228
+epoch: 24
+total time steps: 25000
+evaluation return: 1306.173096
+epoch: 25
+total time steps: 26000
+evaluation return: 1062.978271
+epoch: 26
+total time steps: 27000
+evaluation return: -177.051239
+epoch: 27
+total time steps: 28000
+evaluation return: 2880.877686
+epoch: 28
+total time steps: 29000
+evaluation return: 2006.049438
+epoch: 29
+total time steps: 30000
+evaluation return: 3037.129150
+epoch: 30
+total time steps: 31000
+evaluation return: 2937.399658
+epoch: 31
+total time steps: 32000
+evaluation return: 3032.411377
+epoch: 32
+total time steps: 33000
+evaluation return: 2206.653564
+epoch: 33
+total time steps: 34000
+evaluation return: 812.106323
+epoch: 34
+total time steps: 35000
+evaluation return: 1682.759399
+epoch: 35
+total time steps: 36000
+evaluation return: 3070.338623
+epoch: 36
+total time steps: 37000
+evaluation return: 3091.345215
+epoch: 37
+total time steps: 38000
+evaluation return: 661.023560
+epoch: 38
+total time steps: 39000
+evaluation return: 2703.614746
+epoch: 39
+total time steps: 40000
+evaluation return: 3061.994629
+epoch: 40
+total time steps: 41000
+evaluation return: 2592.759277
+epoch: 41
+total time steps: 42000
+evaluation return: 2178.317139
+epoch: 42
+total time steps: 43000
+evaluation return: 3019.444336
+epoch: 43
+total time steps: 44000
+evaluation return: 3042.479980
+epoch: 44
+total time steps: 45000
+evaluation return: 2577.726807
+epoch: 45
+total time steps: 46000
+evaluation return: 2361.448730
+epoch: 46
+total time steps: 47000
+evaluation return: 3050.966064
+epoch: 47
+total time steps: 48000
+evaluation return: 2153.499512
+epoch: 48
+total time steps: 49000
+evaluation return: 2637.942627
+epoch: 49
+total time steps: 50000
+evaluation return: 2480.173828
+epoch: 50
+total time steps: 51000
+evaluation return: 2040.051758
+epoch: 51
+total time steps: 52000
+evaluation return: 2709.782715
+epoch: 52
+total time steps: 53000
+evaluation return: 3242.853516
+epoch: 53
+total time steps: 54000
+evaluation return: 3061.259277
+epoch: 54
+total time steps: 55000
+evaluation return: 2990.404785
+epoch: 55
+total time steps: 56000
+evaluation return: 3230.455566
+epoch: 56
+total time steps: 57000
+evaluation return: 3145.897949
+epoch: 57
+total time steps: 58000
+evaluation return: 2891.927734
+epoch: 58
+total time steps: 59000
+evaluation return: 3124.775879
+epoch: 59
+total time steps: 60000
+evaluation return: 3220.390137
+epoch: 60
+total time steps: 61000
+evaluation return: 2738.720459
+epoch: 61
+total time steps: 62000
+evaluation return: 1431.017578
+epoch: 62
+total time steps: 63000
+evaluation return: 3025.311768
+epoch: 63
+total time steps: 64000
+evaluation return: 3141.725830
+epoch: 64
+total time steps: 65000
+evaluation return: 3177.591309
+epoch: 65
+total time steps: 66000
+evaluation return: 3152.471924
+epoch: 66
+total time steps: 67000
+evaluation return: 3162.078613
+epoch: 67
+total time steps: 68000
+evaluation return: 3153.652100
+epoch: 68
+total time steps: 69000
+evaluation return: 2595.675049
+epoch: 69
+total time steps: 70000
+evaluation return: 3255.792480
+epoch: 70
+total time steps: 71000
+evaluation return: 2641.307129
+epoch: 71
+total time steps: 72000
+evaluation return: 3215.728760
+epoch: 72
+total time steps: 73000
+evaluation return: 3175.708984
+epoch: 73
+total time steps: 74000
+evaluation return: 2665.061523
+epoch: 74
+total time steps: 75000
+evaluation return: 3174.529297
+epoch: 75
+total time steps: 76000
+evaluation return: 3176.546143
+epoch: 76
+total time steps: 77000
+evaluation return: 3175.076660
+epoch: 77
+total time steps: 78000
+evaluation return: 3222.473389
+epoch: 78
+total time steps: 79000
+evaluation return: 3147.896484
+epoch: 79
+total time steps: 80000
+evaluation return: 3134.723389
+epoch: 80
+total time steps: 81000
+evaluation return: 3215.753174
+epoch: 81
+total time steps: 82000
+evaluation return: 3155.132812
+epoch: 82
+total time steps: 83000
+evaluation return: 3014.110107
+epoch: 83
+total time steps: 84000
+evaluation return: 3090.355469
+epoch: 84
+total time steps: 85000
+evaluation return: 2470.735840
+epoch: 85
+total time steps: 86000
+evaluation return: 3374.041504
+epoch: 86
+total time steps: 87000
+evaluation return: 2814.388184
+epoch: 87
+total time steps: 88000
+evaluation return: 3291.631348
+epoch: 88
+total time steps: 89000
+evaluation return: 3207.338135
+epoch: 89
+total time steps: 90000
+evaluation return: 3285.753174
+epoch: 90
+total time steps: 91000
+evaluation return: 2780.226074
+epoch: 91
+total time steps: 92000
+evaluation return: 3244.716064
+epoch: 92
+total time steps: 93000
+evaluation return: 3296.990967
+epoch: 93
+total time steps: 94000
+evaluation return: 3332.164795
+epoch: 94
+total time steps: 95000
+evaluation return: 3268.501709
+epoch: 95
+total time steps: 96000
+evaluation return: 3320.727295
+epoch: 96
+total time steps: 97000
+evaluation return: 3053.897949
+epoch: 97
+total time steps: 98000
+evaluation return: 3286.724121
+epoch: 98
+total time steps: 99000
+evaluation return: 3316.213623
+epoch: 99
+total time steps: 100000
+evaluation return: 3320.215332

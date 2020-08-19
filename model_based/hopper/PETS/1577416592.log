@@ -1,0 +1,800 @@
+epoch: 0
+evaluation return: 11.628101
+epoch: 1
+evaluation return: 27.620452
+epoch: 2
+evaluation return: 5.816988
+epoch: 3
+evaluation return: 44.616306
+epoch: 4
+evaluation return: 3.132165
+epoch: 5
+evaluation return: 6.733010
+epoch: 6
+evaluation return: 3.661761
+epoch: 7
+evaluation return: 61.281622
+epoch: 8
+evaluation return: 11.351513
+epoch: 9
+evaluation return: 25.454879
+epoch: 10
+evaluation return: 130.061657
+epoch: 11
+evaluation return: 32.701484
+epoch: 12
+evaluation return: 15.083696
+epoch: 13
+evaluation return: 27.750992
+epoch: 14
+evaluation return: 83.446576
+epoch: 15
+evaluation return: 75.666030
+epoch: 16
+evaluation return: 88.069338
+epoch: 17
+evaluation return: 83.611929
+epoch: 18
+evaluation return: 66.438774
+epoch: 19
+evaluation return: 15.458896
+epoch: 20
+evaluation return: 42.577380
+epoch: 21
+evaluation return: 67.267756
+epoch: 22
+evaluation return: 61.673324
+epoch: 23
+evaluation return: 81.538938
+epoch: 24
+evaluation return: 42.636229
+epoch: 25
+evaluation return: 43.213896
+epoch: 26
+evaluation return: 50.296480
+epoch: 27
+evaluation return: 48.368750
+epoch: 28
+evaluation return: 46.937788
+epoch: 29
+evaluation return: 47.630446
+epoch: 30
+evaluation return: 164.770885
+epoch: 31
+evaluation return: 51.601327
+epoch: 32
+evaluation return: 48.390874
+epoch: 33
+evaluation return: 54.508172
+epoch: 34
+evaluation return: 110.546139
+epoch: 35
+evaluation return: 79.307230
+epoch: 36
+evaluation return: 175.748485
+epoch: 37
+evaluation return: 202.869695
+epoch: 38
+evaluation return: 11.354690
+epoch: 39
+evaluation return: 39.575494
+epoch: 40
+evaluation return: 55.235011
+epoch: 41
+evaluation return: 40.783232
+epoch: 42
+evaluation return: 54.604337
+epoch: 43
+evaluation return: 56.233538
+epoch: 44
+evaluation return: 57.003203
+epoch: 45
+evaluation return: 58.923553
+epoch: 46
+evaluation return: 10.801128
+epoch: 47
+evaluation return: 7.499984
+epoch: 48
+evaluation return: 61.649650
+epoch: 49
+evaluation return: 52.455154
+epoch: 50
+evaluation return: 54.791978
+epoch: 51
+evaluation return: 56.284393
+epoch: 52
+evaluation return: 54.385038
+epoch: 53
+evaluation return: 51.661236
+epoch: 54
+evaluation return: 55.679741
+epoch: 55
+evaluation return: 54.287255
+epoch: 56
+evaluation return: 61.786354
+epoch: 57
+evaluation return: 58.204029
+epoch: 58
+evaluation return: 55.385764
+epoch: 59
+evaluation return: 8.424564
+epoch: 60
+evaluation return: 52.653882
+epoch: 61
+evaluation return: 52.813513
+epoch: 62
+evaluation return: 58.196292
+epoch: 63
+evaluation return: 60.451561
+epoch: 64
+evaluation return: 32.204048
+epoch: 65
+evaluation return: 60.299245
+epoch: 66
+evaluation return: 8.030210
+epoch: 67
+evaluation return: 58.702044
+epoch: 68
+evaluation return: 71.090207
+epoch: 69
+evaluation return: 63.954466
+epoch: 70
+evaluation return: 56.263982
+epoch: 71
+evaluation return: 36.462044
+epoch: 72
+evaluation return: 53.241145
+epoch: 73
+evaluation return: 32.192396
+epoch: 74
+evaluation return: 32.339932
+epoch: 75
+evaluation return: 36.350370
+epoch: 76
+evaluation return: 34.897284
+epoch: 77
+evaluation return: 46.528199
+epoch: 78
+evaluation return: 33.129857
+epoch: 79
+evaluation return: 32.894906
+epoch: 80
+evaluation return: 82.391562
+epoch: 81
+evaluation return: 32.556501
+epoch: 82
+evaluation return: 35.046342
+epoch: 83
+evaluation return: 62.117094
+epoch: 84
+evaluation return: 37.053611
+epoch: 85
+evaluation return: 34.553076
+epoch: 86
+evaluation return: 30.863314
+epoch: 87
+evaluation return: 32.667661
+epoch: 88
+evaluation return: 32.528831
+epoch: 89
+evaluation return: 57.237719
+epoch: 90
+evaluation return: 30.837383
+epoch: 91
+evaluation return: 33.047692
+epoch: 92
+evaluation return: 32.478587
+epoch: 93
+evaluation return: 34.672605
+epoch: 94
+evaluation return: 36.628077
+epoch: 95
+evaluation return: 31.114922
+epoch: 96
+evaluation return: 36.836991
+epoch: 97
+evaluation return: 30.891159
+epoch: 98
+evaluation return: 35.125766
+epoch: 99
+evaluation return: 32.934778
+epoch: 100
+evaluation return: 40.758554
+epoch: 101
+evaluation return: 32.873736
+epoch: 102
+evaluation return: 39.172069
+epoch: 103
+evaluation return: 32.660192
+epoch: 104
+evaluation return: 30.913777
+epoch: 105
+evaluation return: 31.326475
+epoch: 106
+evaluation return: 31.050169
+epoch: 107
+evaluation return: 30.904512
+epoch: 108
+evaluation return: 31.240348
+epoch: 109
+evaluation return: 37.560216
+epoch: 110
+evaluation return: 32.828850
+epoch: 111
+evaluation return: 30.791461
+epoch: 112
+evaluation return: 36.670318
+epoch: 113
+evaluation return: 31.077113
+epoch: 114
+evaluation return: 32.647829
+epoch: 115
+evaluation return: 35.519132
+epoch: 116
+evaluation return: 65.622108
+epoch: 117
+evaluation return: 31.071615
+epoch: 118
+evaluation return: 37.352394
+epoch: 119
+evaluation return: 39.065101
+epoch: 120
+evaluation return: 41.089587
+epoch: 121
+evaluation return: 30.755388
+epoch: 122
+evaluation return: 37.240247
+epoch: 123
+evaluation return: 35.414230
+epoch: 124
+evaluation return: 33.105314
+epoch: 125
+evaluation return: 38.768559
+epoch: 126
+evaluation return: 37.287844
+epoch: 127
+evaluation return: 31.358755
+epoch: 128
+evaluation return: 41.306345
+epoch: 129
+evaluation return: 35.441515
+epoch: 130
+evaluation return: 33.002410
+epoch: 131
+evaluation return: 33.011171
+epoch: 132
+evaluation return: 46.715821
+epoch: 133
+evaluation return: 39.829184
+epoch: 134
+evaluation return: 35.318984
+epoch: 135
+evaluation return: 36.856574
+epoch: 136
+evaluation return: 44.285611
+epoch: 137
+evaluation return: 32.927971
+epoch: 138
+evaluation return: 37.466217
+epoch: 139
+evaluation return: 39.585296
+epoch: 140
+evaluation return: 39.467232
+epoch: 141
+evaluation return: 30.880875
+epoch: 142
+evaluation return: 35.247211
+epoch: 143
+evaluation return: 30.827919
+epoch: 144
+evaluation return: 31.265099
+epoch: 145
+evaluation return: 33.411283
+epoch: 146
+evaluation return: 35.085352
+epoch: 147
+evaluation return: 30.411220
+epoch: 148
+evaluation return: 35.048583
+epoch: 149
+evaluation return: 39.298330
+epoch: 150
+evaluation return: 31.283127
+epoch: 151
+evaluation return: 32.622489
+epoch: 152
+evaluation return: 33.066141
+epoch: 153
+evaluation return: 31.414966
+epoch: 154
+evaluation return: 33.399776
+epoch: 155
+evaluation return: 31.139646
+epoch: 156
+evaluation return: 31.177978
+epoch: 157
+evaluation return: 31.193390
+epoch: 158
+evaluation return: 33.293245
+epoch: 159
+evaluation return: 33.206485
+epoch: 160
+evaluation return: 32.987662
+epoch: 161
+evaluation return: 30.950101
+epoch: 162
+evaluation return: 31.196803
+epoch: 163
+evaluation return: 31.233029
+epoch: 164
+evaluation return: 33.210436
+epoch: 165
+evaluation return: 33.171865
+epoch: 166
+evaluation return: 31.493279
+epoch: 167
+evaluation return: 31.143579
+epoch: 168
+evaluation return: 44.635297
+epoch: 169
+evaluation return: 33.231760
+epoch: 170
+evaluation return: 33.180906
+epoch: 171
+evaluation return: 33.151028
+epoch: 172
+evaluation return: 32.896298
+epoch: 173
+evaluation return: 33.160962
+epoch: 174
+evaluation return: 33.260756
+epoch: 175
+evaluation return: 32.943777
+epoch: 176
+evaluation return: 32.989576
+epoch: 177
+evaluation return: 30.860519
+epoch: 178
+evaluation return: 30.832517
+epoch: 179
+evaluation return: 32.816639
+epoch: 180
+evaluation return: 35.097328
+epoch: 181
+evaluation return: 33.299183
+epoch: 182
+evaluation return: 31.194833
+epoch: 183
+evaluation return: 30.938007
+epoch: 184
+evaluation return: 38.522002
+epoch: 185
+evaluation return: 33.315172
+epoch: 186
+evaluation return: 33.170872
+epoch: 187
+evaluation return: 31.202605
+epoch: 188
+evaluation return: 33.228911
+epoch: 189
+evaluation return: 33.156919
+epoch: 190
+evaluation return: 30.984223
+epoch: 191
+evaluation return: 30.671011
+epoch: 192
+evaluation return: 34.382096
+epoch: 193
+evaluation return: 33.157824
+epoch: 194
+evaluation return: 35.184027
+epoch: 195
+evaluation return: 31.493162
+epoch: 196
+evaluation return: 32.405110
+epoch: 197
+evaluation return: 31.300923
+epoch: 198
+evaluation return: 42.795332
+epoch: 199
+evaluation return: 32.458013
+epoch: 200
+evaluation return: 31.286420
+epoch: 201
+evaluation return: 31.304661
+epoch: 202
+evaluation return: 35.231550
+epoch: 203
+evaluation return: 46.673143
+epoch: 204
+evaluation return: 34.648565
+epoch: 205
+evaluation return: 31.408619
+epoch: 206
+evaluation return: 31.373908
+epoch: 207
+evaluation return: 33.095893
+epoch: 208
+evaluation return: 30.883389
+epoch: 209
+evaluation return: 29.282634
+epoch: 210
+evaluation return: 31.263802
+epoch: 211
+evaluation return: 30.894237
+epoch: 212
+evaluation return: 42.343003
+epoch: 213
+evaluation return: 31.331673
+epoch: 214
+evaluation return: 32.937576
+epoch: 215
+evaluation return: 32.993490
+epoch: 216
+evaluation return: 44.212778
+epoch: 217
+evaluation return: 34.977037
+epoch: 218
+evaluation return: 32.681323
+epoch: 219
+evaluation return: 31.455984
+epoch: 220
+evaluation return: 32.932564
+epoch: 221
+evaluation return: 31.696959
+epoch: 222
+evaluation return: 31.097881
+epoch: 223
+evaluation return: 33.022062
+epoch: 224
+evaluation return: 32.839218
+epoch: 225
+evaluation return: 50.524978
+epoch: 226
+evaluation return: 35.206828
+epoch: 227
+evaluation return: 31.152724
+epoch: 228
+evaluation return: 31.149949
+epoch: 229
+evaluation return: 35.329934
+epoch: 230
+evaluation return: 32.798623
+epoch: 231
+evaluation return: 31.275628
+epoch: 232
+evaluation return: 32.838863
+epoch: 233
+evaluation return: 30.827441
+epoch: 234
+evaluation return: 31.244802
+epoch: 235
+evaluation return: 35.476653
+epoch: 236
+evaluation return: 32.949311
+epoch: 237
+evaluation return: 32.774432
+epoch: 238
+evaluation return: 31.228147
+epoch: 239
+evaluation return: 42.388024
+epoch: 240
+evaluation return: 32.894677
+epoch: 241
+evaluation return: 30.850394
+epoch: 242
+evaluation return: 32.907432
+epoch: 243
+evaluation return: 31.228778
+epoch: 244
+evaluation return: 44.251994
+epoch: 245
+evaluation return: 32.689134
+epoch: 246
+evaluation return: 32.525645
+epoch: 247
+evaluation return: 32.346502
+epoch: 248
+evaluation return: 30.968331
+epoch: 249
+evaluation return: 44.752032
+epoch: 250
+evaluation return: 31.343302
+epoch: 251
+evaluation return: 31.055577
+epoch: 252
+evaluation return: 31.362495
+epoch: 253
+evaluation return: 32.827158
+epoch: 254
+evaluation return: 34.808217
+epoch: 255
+evaluation return: 32.788307
+epoch: 256
+evaluation return: 33.081354
+epoch: 257
+evaluation return: 33.259520
+epoch: 258
+evaluation return: 30.913780
+epoch: 259
+evaluation return: 31.498558
+epoch: 260
+evaluation return: 29.139582
+epoch: 261
+evaluation return: 42.635722
+epoch: 262
+evaluation return: 32.595947
+epoch: 263
+evaluation return: 30.802984
+epoch: 264
+evaluation return: 33.476940
+epoch: 265
+evaluation return: 33.085177
+epoch: 266
+evaluation return: 32.997696
+epoch: 267
+evaluation return: 31.502683
+epoch: 268
+evaluation return: 34.884870
+epoch: 269
+evaluation return: 31.272088
+epoch: 270
+evaluation return: 31.239666
+epoch: 271
+evaluation return: 30.930164
+epoch: 272
+evaluation return: 31.074875
+epoch: 273
+evaluation return: 33.151075
+epoch: 274
+evaluation return: 43.232556
+epoch: 275
+evaluation return: 31.234002
+epoch: 276
+evaluation return: 33.109606
+epoch: 277
+evaluation return: 43.978843
+epoch: 278
+evaluation return: 28.953542
+epoch: 279
+evaluation return: 31.046035
+epoch: 280
+evaluation return: 41.175613
+epoch: 281
+evaluation return: 32.774759
+epoch: 282
+evaluation return: 31.056650
+epoch: 283
+evaluation return: 31.091563
+epoch: 284
+evaluation return: 31.347177
+epoch: 285
+evaluation return: 33.327076
+epoch: 286
+evaluation return: 31.311594
+epoch: 287
+evaluation return: 35.240353
+epoch: 288
+evaluation return: 31.339687
+epoch: 289
+evaluation return: 32.900434
+epoch: 290
+evaluation return: 35.436902
+epoch: 291
+evaluation return: 31.173225
+epoch: 292
+evaluation return: 41.857660
+epoch: 293
+evaluation return: 31.448312
+epoch: 294
+evaluation return: 31.104180
+epoch: 295
+evaluation return: 60.137978
+epoch: 296
+evaluation return: 40.373863
+epoch: 297
+evaluation return: 43.526953
+epoch: 298
+evaluation return: 36.351473
+epoch: 299
+evaluation return: 38.841364
+epoch: 300
+evaluation return: 31.590554
+epoch: 301
+evaluation return: 33.027818
+epoch: 302
+evaluation return: 37.032223
+epoch: 303
+evaluation return: 30.749048
+epoch: 304
+evaluation return: 31.147382
+epoch: 305
+evaluation return: 33.289830
+epoch: 306
+evaluation return: 33.628819
+epoch: 307
+evaluation return: 30.714505
+epoch: 308
+evaluation return: 33.474263
+epoch: 309
+evaluation return: 32.810359
+epoch: 310
+evaluation return: 32.971359
+epoch: 311
+evaluation return: 32.633682
+epoch: 312
+evaluation return: 31.442928
+epoch: 313
+evaluation return: 31.187121
+epoch: 314
+evaluation return: 34.796268
+epoch: 315
+evaluation return: 33.360987
+epoch: 316
+evaluation return: 36.799719
+epoch: 317
+evaluation return: 36.340789
+epoch: 318
+evaluation return: 32.525146
+epoch: 319
+evaluation return: 34.809153
+epoch: 320
+evaluation return: 31.110164
+epoch: 321
+evaluation return: 31.157977
+epoch: 322
+evaluation return: 33.102628
+epoch: 323
+evaluation return: 31.001527
+epoch: 324
+evaluation return: 33.248184
+epoch: 325
+evaluation return: 31.150142
+epoch: 326
+evaluation return: 31.627156
+epoch: 327
+evaluation return: 35.202781
+epoch: 328
+evaluation return: 38.674526
+epoch: 329
+evaluation return: 32.905115
+epoch: 330
+evaluation return: 31.381569
+epoch: 331
+evaluation return: 32.985164
+epoch: 332
+evaluation return: 41.222518
+epoch: 333
+evaluation return: 31.108034
+epoch: 334
+evaluation return: 33.513655
+epoch: 335
+evaluation return: 32.780182
+epoch: 336
+evaluation return: 33.374725
+epoch: 337
+evaluation return: 31.117753
+epoch: 338
+evaluation return: 31.171907
+epoch: 339
+evaluation return: 31.279579
+epoch: 340
+evaluation return: 31.322318
+epoch: 341
+evaluation return: 31.418530
+epoch: 342
+evaluation return: 31.533968
+epoch: 343
+evaluation return: 31.039232
+epoch: 344
+evaluation return: 33.123419
+epoch: 345
+evaluation return: 31.021322
+epoch: 346
+evaluation return: 33.236125
+epoch: 347
+evaluation return: 41.848797
+epoch: 348
+evaluation return: 38.657410
+epoch: 349
+evaluation return: 30.914874
+epoch: 350
+evaluation return: 33.345460
+epoch: 351
+evaluation return: 31.407844
+epoch: 352
+evaluation return: 30.748891
+epoch: 353
+evaluation return: 31.030384
+epoch: 354
+evaluation return: 33.523824
+epoch: 355
+evaluation return: 32.744214
+epoch: 356
+evaluation return: 31.437680
+epoch: 357
+evaluation return: 33.339774
+epoch: 358
+evaluation return: 31.729389
+epoch: 359
+evaluation return: 30.908194
+epoch: 360
+evaluation return: 33.020808
+epoch: 361
+evaluation return: 30.798596
+epoch: 362
+evaluation return: 31.320086
+epoch: 363
+evaluation return: 32.829309
+epoch: 364
+evaluation return: 32.851616
+epoch: 365
+evaluation return: 30.762503
+epoch: 366
+evaluation return: 31.449353
+epoch: 367
+evaluation return: 38.801467
+epoch: 368
+evaluation return: 30.997949
+epoch: 369
+evaluation return: 31.179848
+epoch: 370
+evaluation return: 33.423165
+epoch: 371
+evaluation return: 30.984712
+epoch: 372
+evaluation return: 31.134078
+epoch: 373
+evaluation return: 31.285765
+epoch: 374
+evaluation return: 31.047510
+epoch: 375
+evaluation return: 31.084710
+epoch: 376
+evaluation return: 34.335592
+epoch: 377
+evaluation return: 30.961107
+epoch: 378
+evaluation return: 30.947704
+epoch: 379
+evaluation return: 34.814981
+epoch: 380
+evaluation return: 30.664046
+epoch: 381
+evaluation return: 33.366442
+epoch: 382
+evaluation return: 33.226446
+epoch: 383
+evaluation return: 35.106689
+epoch: 384
+evaluation return: 31.393315
+epoch: 385
+evaluation return: 30.829680
+epoch: 386
+evaluation return: 31.088249
+epoch: 387
+evaluation return: 30.982983
+epoch: 388
+evaluation return: 31.400585
+epoch: 389
+evaluation return: 30.992614
+epoch: 390
+evaluation return: 31.558903
+epoch: 391
+evaluation return: 30.797156
+epoch: 392
+evaluation return: 32.873803
+epoch: 393
+evaluation return: 31.184027
+epoch: 394
+evaluation return: 31.420578
+epoch: 395
+evaluation return: 34.900672
+epoch: 396
+evaluation return: 33.158361
+epoch: 397
+evaluation return: 31.090216
+epoch: 398
+evaluation return: 30.725640
+epoch: 399
+evaluation return: 31.148995
