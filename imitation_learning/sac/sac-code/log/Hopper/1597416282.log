@@ -1,0 +1,9 @@
+epoch: 0
+total time steps: 1000
+evaluation return: -3186.580322
+epoch: 1
+total time steps: 2000
+evaluation return: -2670.775391
+epoch: 2
+total time steps: 3000
+evaluation return: -2901.924316
