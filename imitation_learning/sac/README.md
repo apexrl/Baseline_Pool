@@ -13,14 +13,18 @@ This data use a squash action (a is in [-1, 1])
 
 Expert Performances
 
-SAC, 50 expert traj
+SAC, 50 expert traj, Deterministic Policy in testing
 
 | Envs | Mean | Std
 | ----  | ----  | ----  |
-| Ant | 4162.8364 | 417.3424 |
-| Hopper | 3219.4463 | 686.7828 |
-| Humanoid | 2619.448 | 1107.4275 |
-| HalfCheetah | 12796.926 | 139.16898 |
+| Ant | - | - |
+| Hopper | 3402.9494 | 446.4877 |
+| Humanoid | - | - |
+| HalfCheetah | 13711.6445 | 111.4709 |
 | Walker2d | 5259.4805 | 1329.5388 |
-| Swimmer | 318.91995 | 2.0149245 |
+| Swimmer | - | - |
+| AntSlim | 5418.8721 | 946.7947 |
+| HumanoidSlim | 5346.6181 | 712.2214 |
+| SwimmerSlim | 339.2811 | 0.7625 |
 
+P.S.: *Slim envs are those envs that use a wrapper who remove some dimension of the observation.
