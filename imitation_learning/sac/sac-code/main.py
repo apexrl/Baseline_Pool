@@ -92,6 +92,7 @@ if __name__ == '__main__':
                 'type': 'GaussianPolicy',
                 'kwargs': {
                     'hidden_layer_sizes': (256, 256),
+                    # 'squash': False,
                     'squash': True,
                 }
             },
@@ -114,6 +115,7 @@ if __name__ == '__main__':
                     'max_path_length': 1000,
                     'min_pool_size': 1000,
                     'batch_size': 256,
+                    # 'squash': False,
                 }
             },
         }
