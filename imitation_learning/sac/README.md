@@ -4,7 +4,7 @@ Contains SAC imitation learning baseline expert trajs, results on mujoco.
 
 This SAC code is modified upon https://github.com/rail-berkeley/softlearning, where we drop the ray-based training style to a easy-reading run on a single process. Expert performances are run using this code.
 
-This data use a squash action (a is in [-1, 1])
+This data use a squash action (a is in [-1, 1]), it is ok since the action space in mujoco is also in [-1, 1]
 
 
 |  Algs   | Envs  | Curve Data | Sampled Trajs | Plot Scripts |
