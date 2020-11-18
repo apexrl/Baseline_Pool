@@ -13,7 +13,7 @@ This data use a squash action (a is in [-1, 1]), it is ok since the action space
 
 Expert Performances
 
-SAC, 50 expert traj, Deterministic Policy in testing
+SAC, seed 0, 50 expert traj, Deterministic Policy in testing
 
 | Envs | Mean | Std
 | ----  | ----  | ----  |
