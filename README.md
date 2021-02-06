@@ -23,6 +23,6 @@ Contains imitation learning baseline expert trajs, results on mujoco.
 
 |  Algs   | Envs  | Curve Data | Sampled Trajs | Plot Scripts |
 |  ----  | ----  | ----  | ----  | ----  |
-| SAC  | Ant, AntSlim, Hopper, Humanoid, HumanoidSlim, HalfCheetah, Walker2d, Swimmer, SwimmerSlim | N | Y | N
+| SAC  | Pendulum, InvertedPendulum, InvertedDoublePendulum, Ant, AntSlim, Hopper, Humanoid, HumanoidSlim, HalfCheetah, Walker2d, Swimmer, SwimmerSlim | N | Y | N
 
 Contributed by Minghuan Liu.
