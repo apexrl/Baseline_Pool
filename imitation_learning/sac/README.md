@@ -18,30 +18,30 @@ SAC, 50 expert traj, Deterministic Policy in testing
 | Envs | Mean | Std
 | ----  | ----  | ----  |
 | Pendulum | 139.7313 | 79.8126 |
-| InvertedPendulum | 1000.0000 | 0.0000 |
-| InvertedDoublePendulum | 9358.8740 | 0.1043
-| Ant | 5404.5532 | 1520.4961 |
-| Hopper | 3402.9494 | 446.4877 |
-| Humanoid | 6043.9907 | 726.1788 |
-| HalfCheetah | 13711.6445 | 111.4709 |
-| Walker2d | 5639.3267 | 29.9715 |
-| Swimmer | 139.2806 | 1.1204 |
-| AntSlim | 5418.8721 | 946.7947 |
-| HumanoidSlim | 5346.6181 | 712.2214 |
-| SwimmerSlim | 339.2811 | 0.7625 |
+| InvertedPendulum-v2 | 1000.0000 | 0.0000 |
+| InvertedDoublePendulum-v2 | 9358.8740 | 0.1043
+| Ant-v2 | 5404.5532 | 1520.4961 |
+| Hopper-v2 | 3402.9494 | 446.4877 |
+| Humanoid-v2 | 6043.9907 | 726.1788 |
+| HalfCheetah-v2 | 13711.6445 | 111.4709 |
+| Walker2d-v2 | 5639.3267 | 29.9715 |
+| Swimmer-v2 | 139.2806 | 1.1204 |
+| AntSlim-v2 | 5418.8721 | 946.7947 |
+| HumanoidSlim-v2 | 5346.6181 | 712.2214 |
+| SwimmerSlim-v2 | 339.2811 | 0.7625 |
 
 Random Performance
 
 | Envs | Mean | Std
 | ----  | ----  | ----  |
 | Pendulum | -1494.1357 | 265.8315 |
-| InvertedPendulum | 25.2800 | 5.5318 |
-| InvertedDoublePendulum | 78.2829 | 10.7335
-| Ant | 713.5986 | 203.9204 |
-| Hopper | 13.0901 | 0.1022 |
-| Humanoid | 64.7384 | 2.3037 |
-| HalfCheetah | 74.4849 | 12.3917 |
-| Walker2d | 7.0708 | 0.1292 |
-| Swimmer | 15.5430 | 6.6655 |
+| InvertedPendulum-v2 | 25.2800 | 5.5318 |
+| InvertedDoublePendulum-v2 | 78.2829 | 10.7335
+| Ant-v2 | 713.5986 | 203.9204 |
+| Hopper-v2 | 13.0901 | 0.1022 |
+| Humanoid-v2 | 64.7384 | 2.3037 |
+| HalfCheetah-v2 | 74.4849 | 12.3917 |
+| Walker2d-v2 | 7.0708 | 0.1292 |
+| Swimmer-v2 | 15.5430 | 6.6655 |
 
 P.S.: *Slim envs are those envs that use a wrapper who remove some dimension of the observation.
